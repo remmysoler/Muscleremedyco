@@ -25,7 +25,7 @@ const AboutPage: React.FC = () => {
             />
             
             <Card
-              title="Professional Excellence"
+              title="Meet your therapist"
               description="Sarah is the owner and remedial massage therapist at Muscle Remedy Co. She completed her Diploma of Remedial Massage at Victoria University in 2024 and is trained in dry needling, cupping, lymphatic drainage, and taping. She has worked with a wide range of clients, including players from the AFL and AFLW Western Bulldogs, everyday people managing aches and pains, and elderly clients in aged care. Passionate about strength training, Sarah understands the importance of recovery and how even small aches and tightness can affect how the body feels and moves. She is committed to helping clients recover, move more freely, and feel their best through treatments tailored to their needs."
             />
           </div>
